@@ -23,22 +23,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Dart.
 
 
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
- /* Style all font awesome icons */
-.fa {  
-  padding: 20px;  
-  font-size: 30px;  
-  width: 50px;  
-  text-align: center;  
-  text-decoration: none;
-}
-  /* Add a hover effect if you want */
-.fa:hover {  
-  opacity: 0.7;
-}
- </style>
+
+
 <h3> Connect with me : </h3>
 <!-- Add font awesome icons -->
 <a href="https://www.facebook.com/jeet.kansagara.99" class="fa fa-facebook"></a>
