@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Coder-JK/Coder-JK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey there 👋
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Coder-JK&label=Views&color=blue&style=plastic" alt="Coder-JK" />
+ </p>
+ 
+- 🔭 I’m currently pursusing Computer Engineering.
+- 🌱 I’m currently learning Dart.
